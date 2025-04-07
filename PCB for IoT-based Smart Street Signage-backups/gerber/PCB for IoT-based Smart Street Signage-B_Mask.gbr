@@ -1,0 +1,30 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.0*%
+%TF.CreationDate,2025-04-07T09:31:54+05:30*%
+%TF.ProjectId,PCB for IoT-based Smart Street Signage,50434220-666f-4722-9049-6f542d626173,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.0) date 2025-04-07 09:31:54*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,0.900000*%
+%ADD11R,1.050000X1.500000*%
+%ADD12O,1.050000X1.500000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,SW1*%
+X148975000Y-106950000D03*
+X150925000Y-106950000D03*
+%TD*%
+D11*
+%TO.C,U3*%
+X165960000Y-108750000D03*
+D12*
+X167230000Y-108750000D03*
+X168500000Y-108750000D03*
+%TD*%
+M02*
